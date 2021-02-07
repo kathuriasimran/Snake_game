@@ -3,8 +3,8 @@ import time
 import random
  
 pygame.init()
- 
 
+gameIcon = pygame.image.load('snake.png')
 green = (0, 255, 0)
 blue = (50, 153, 213)
 
@@ -19,6 +19,7 @@ red = (213, 50, 80)
 
 dis = pygame.display.set_mode((dis_width, dis_height))
 pygame.display.set_caption(' SNAKE ')
+pygame.display.set_icon(gameIcon) 
  
 clock = pygame.time.Clock()
  
