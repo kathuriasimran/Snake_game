@@ -14,6 +14,3 @@ Snake game using Python and Pygame
 ![title](s2.png)
  
  Game over window 
- 
-  [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](20201230_090425_01.mp4)
- 
